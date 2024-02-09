@@ -944,3 +944,91 @@ margin: 280px 147px 117px;
 	left: 1008px;
 	top: 470px;
 }
+
+.place{
+position: absolute;
+width: 1451px;
+height: 704px;
+background: #19191b;
+margin-top: 580px;
+}
+
+.where{
+	position: absolute;
+	color: #FFF;
+	font-family: Italiana;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 66px;
+	margin-left: 160px;
+}
+
+.street{
+	position: absolute;
+	margin-top: 167px;
+	margin-left: 160px;
+}
+
+.how{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 180px;
+	margin-left: 828px;
+}
+
+.when{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 185px;
+	margin-left: 1090px;
+}
+
+.grafic{
+	position: absolute;
+	color: #FFF;
+	text-align: center;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 200;
+	line-height: normal;
+	margin-top: 273px;
+	margin-left: 1070px;
+}
+
+.numer{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: 273px;
+	margin-left: 828px;
+}
+
+.social-networks{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: 367px;
+	margin-left: 828px;
+}
+
