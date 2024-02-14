@@ -772,21 +772,10 @@ margin-top: 1625px;
 background: #323233;
 }
 
-.Quality{
-position: absolute;
-font-family: Italiana;
-font-size: 64px;
-font-weight: 400;
-line-height: 75px;
-letter-spacing: 0em;
-text-align: left;
-width: 5010px;
-top: 1800px;
-left: 593px;
-}
-
-.text-bg-right{
-position: absolute;
+.text-quality{
+	position: absolute;
+	top: 1770px;
+	left: 0px;
 }
 
 .shadow-bread{
@@ -882,7 +871,7 @@ width: 1430px;
 height: 580px;
 top: 2534px;
 left: 5px;
-background-image: url(./assets/photo_2022-06-23_21-45-36\ 1.jpg);
+background-image: url(./assets/garanty.png);
 }
 
 .title-text-garanty{
@@ -1033,7 +1022,117 @@ margin-top: 580px;
 }
 
 .additionally{
+position: absolute;
+margin-top: 1284px;
 width: 1446px;
 height: 351px;
-background: #202023;
+background: #19191b;
 }
+
+.additionally-title-text{
+color: #FFF;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+margin-top: 62px;
+margin-left: 160px;
+}
+
+.info-text-additionally{
+	color: #FFF;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: 16px;
+margin-left: 178px;
+}
+
+.about-additionally{
+	position: absolute;
+	color: #FFF;
+	text-align: center;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -160px;
+margin-left: 580px;
+}
+
+.about-info-additionally{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -90px;
+margin-left: 580px;
+}
+
+.movement{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -160px;
+margin-left: 845px;
+}
+
+.movement-additionally{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -90px;
+margin-left: 845px;
+}
+
+.company{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -160px;
+margin-left: 1120px;
+}
+
+.company-additionally{
+	position: absolute;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: -90px;
+margin-left: 1120px;
+}
+
+.additionally-info{
+	position: absolute;
+	color: #535353;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin-top: 80px;
+margin-left: 600px;
+}
+
