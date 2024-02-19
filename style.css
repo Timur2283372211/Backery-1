@@ -1171,5 +1171,84 @@ background-image: url(./assets/Group\ 34.png);
 }
 
 .card{
-	
+	position: absolute;
+margin-top: 190px;
+margin-left: 225px;
+width: 990px;
+height: 669px;
+border-radius: 50px;
+background: #FFF;
+}
+
+.your-adress{
+	position: absolute;
+background: #F5F5F5;
+width: 412px;
+height: 72px;
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+margin-left: 83px;
+	margin-top: 250px;
+}
+
+.your-card{
+	position: absolute;
+	width: 412px;
+	height: 72px;
+	background: #F5F5F5;
+	color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+margin-left: 83px;
+	margin-top: 393px;
+}
+
+.bread-card{
+	position: absolute;
+	margin-left: 514px;
+	margin-top: 145px;
+}
+
+.buttons-card{
+	display: flex;
+	width: 220px;
+	height: 57px;
+	justify-content: center;
+	gap: 36px;
+}
+
+.buttons-card button{
+position: absolute;
+display: flex;
+height: 52px;
+padding: 30px 35px;
+justify-content: center;
+align-items: center;
+color: white;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+background: #B47B48;
+border-radius: 17px;
+left: 83px;
+top: 519px;
+}
+
+.card-title-text{
+	color: #000;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+margin-left: 87px;
+	margin-top: 40px;
 }
