@@ -823,33 +823,6 @@ top: 1950px;
 	left: 10px;	
 }
 
-.link-bread{
-position: absolute;
-color: #000000;
-font-family: Inter;
-font-size: 25.92px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-left: 5px;
-top: -25px;
-list-style-type: none;
-}
-
-.link-bread a{
-	position: absolute;
-	color: #000000;
-	font-family: Inter;
-	font-size: 25.92px;
-	font-style: normal;
-	font-weight: 800;
-	line-height: normal;
-	left: 5px;
-	top: 2px;
-	text-decoration: none;
-	}
-	
-
 .info-cook{
 	position: absolute;
 	width: 291.48px;
@@ -1182,6 +1155,7 @@ background: #FFF;
 
 .your-adress{
 	position: absolute;
+	padding-left: 15px;
 background: #F5F5F5;
 width: 412px;
 height: 72px;
@@ -1197,6 +1171,7 @@ margin-left: 83px;
 
 .your-card{
 	position: absolute;
+	padding-left: 40px;
 	width: 412px;
 	height: 72px;
 	background: #F5F5F5;
